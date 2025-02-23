@@ -1,0 +1,32 @@
+fileFormatVersion: 2
+guid: 934fb67752c00d44084729079d05f2e7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - "\u6218\u6280\u70B9\u56FE\u50CF\u9884\u5236\u4F53": {fileID: 783628140146144724,
+      guid: 494e1200ffb055d4c9c7a6a045c522c5, type: 3}
+  - "\u62D6\u5165\u884C\u52A8\u6761": {instanceID: 0}
+  - "\u6700\u4E0A\u5C42\u7684\u5BF9\u8C61": {instanceID: 0}
+  - "\u6392\u884C\u7B2C\u4E8C\u7684\u5BF9\u8C61": {instanceID: 0}
+  - "\u6211\u65B9\u961F\u5217": {instanceID: 0}
+  - "\u654C\u65B9\u961F\u5217": {instanceID: 0}
+  - "\u89D2\u8272\u5C5E\u6027\u7236\u7EA7": {instanceID: 0}
+  - "boss\u5C5E\u6027\u7236\u7EA7": {instanceID: 0}
+  - "\u884C\u52A8\u6761\u7236\u7EA7": {instanceID: 0}
+  - "\u663E\u793A\u5F53\u524D\u884C\u52A8\u89D2\u8272\u7684\u6587\u672C": {instanceID: 0}
+  - "\u6301\u7EED\u4F24\u5BB3\u56FE\u6807A": {fileID: 21300000, guid: 9617750bb3315c348afac40e11437c55,
+      type: 3}
+  - "\u6301\u7EED\u4F24\u5BB3\u56FE\u6807B": {fileID: 21300000, guid: 3a9fe92d8ebf98949a68c951ff1fbe12,
+      type: 3}
+  - "\u653B\u51FB\u529B\u63D0\u5347\u56FE\u6807": {fileID: 21300000, guid: a451c5373f581ac4b829f304d7bd596c,
+      type: 3}
+  - "\u9632\u5FA1\u529B\u4E0B\u964D\u56FE\u6807": {fileID: 21300000, guid: d3214629b14a5094ba1ab5bfa1bc7969,
+      type: 3}
+  - "\u5F3A\u63A7\u56FE\u6807": {fileID: 21300000, guid: 9617750bb3315c348afac40e11437c55,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
