@@ -15,7 +15,8 @@ public class CharactorBasic : MonoBehaviour
     public float currentmagic;
     public float maxultskill;//¥Û’–
     public float currentskill;
-    public float shield;
+    public float maxshield;
+    public float currentshield;
     public float attack;
 
     protected virtual void Awake()
